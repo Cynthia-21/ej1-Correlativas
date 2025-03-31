@@ -5,7 +5,9 @@ Teniendo en cuenta que:
 
 • El método principal del presente módulo debe ser el método “boolean aprobada()” de la clase 
 Inscripción 
+
 • Las inscripciones pueden involucrar varias asignaturas 
+
 • La inscripción se rechaza si al menos una materia no cumple con la condición de correlatividades  
 Y teniendo como restricción que solamente se podrán utilizar, además de la clase Inscripción, la clase 
 Materia y Alumno; se pide: 
